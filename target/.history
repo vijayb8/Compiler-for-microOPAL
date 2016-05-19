@@ -1,0 +1,2 @@
+run fac.mo
+run -i fac.mo

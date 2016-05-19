@@ -1,0 +1,12 @@
+
+
+-- Requirement 1 : check for atleast one main definition
+
+-- Expected Result : List(Need atleast one Main Definition at global)
+
+DEF MAIN:nat  ==  add(10,20)
+DEF fac(a:nat,n:bool):bool == true
+DEF MAIN:nat  ==  add(10,20)
+DEF MAIN:nat  ==  add(10,20)
+
+
